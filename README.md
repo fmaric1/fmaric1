@@ -9,14 +9,14 @@ I am a final year Computer Science and Informatics student at the University of 
 
 ## Skills
 - Technologies and Tools <br>
-  Programming Languages: Java, Python, JavaScript, C++, C, C# <br>
-  Web Development: HTML, CSS, JavaScript, React, , Node.js
-  Databases: MySQL, SQL, SQLite
-  Version Control: Git, GitHub
-  Cloud Platforms: AWS, Azure, Google Cloud
-  Data Science: Python (NumPy, Pandas)
-  Mobile Development: Android (Java/Kotlin/React Native)
-  Other: Unity, Blender, Adobe Premier Pro, Adobe Photoshop
+  Programming Languages: Java, Python, JavaScript, C++, C, C#, Kotlin, Julia <br>
+  Web Development: HTML, CSS, JavaScript, React, Node.js <br>
+  Databases: MySQL, SQL, SQLite <br>
+  Version Control: Git, GitHub <br>
+  Cloud Platforms: AWS, Azure, Google Cloud <br>
+  Data Science: Python (NumPy, Pandas) <br>
+  Mobile Development: Android (Java/Kotlin/React Native) <br>
+  Other: Unity, Blender, Adobe Premier Pro, Adobe Photoshop <br>
 
 
 ## Connect with Me
