@@ -1,3 +1,5 @@
+![image](https://github.com/fmaric1/fmaric1/assets/72740047/18dd9b2b-b115-4c09-96ad-52eda8f7572c)
+
 # Hi, I'm Filip!
 
 ## About Me
