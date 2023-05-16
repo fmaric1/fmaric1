@@ -8,8 +8,8 @@ I am a final year Computer Science and Informatics student at the University of 
 
 
 ## Skills
-- Technologies and Tools
-  Programming Languages: Java, Python, JavaScript, C++, C, C#, 
+- Technologies and Tools <br>
+  Programming Languages: Java, Python, JavaScript, C++, C, C# <br>
   Web Development: HTML, CSS, JavaScript, React, , Node.js
   Databases: MySQL, SQL, SQLite
   Version Control: Git, GitHub
