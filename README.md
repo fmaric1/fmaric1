@@ -3,11 +3,11 @@
 # Hi, I'm Filip! :smile::wave:
 
 ## About Me
-I am a final year Computer Science and Informatics student at the University of Sarajevo, with a passion for technology and creative pursuits. Alongside my studies, I have developed a keen interest in shooting and editing videos, as well as photography as a hobby.
+I am a final year Computer Science and Informatics Master studies student at the University of Sarajevo, with a passion for technology and creative pursuits. Alongside my studies, I have developed a keen interest in shooting and editing videos, as well as photography as a hobby.
 
 ## Education
-:technologist: Bachelor's Degree in Computer Science and Informatics, Faculty of Electrical Engineering, University of Sarajevo, Expected 2023.
-
+:technologist: Bachelor's Degree in Computer Science and Informatics, Faculty of Electrical Engineering, University of Sarajevo.
+Master's Degree, Expected 2025.
 
 ## Skills
 :point_right: Programming Languages: Java, Python, JavaScript, C++, C, C#, Kotlin, Julia <br>
